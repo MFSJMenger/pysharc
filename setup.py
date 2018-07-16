@@ -7,7 +7,7 @@ setup(name='pysharc',
         description='Python SHARC interface',
         author='Maximilian F.S.J. Menger',
         author_email='maximilian.menger@univie.ac.at',
-        scripts=['bin/sharc_test.py'],
+        scripts=['bin/sharc_test.py', 'src/test_code.x'],
         packages=['pysharc', 'pysharc.sharc', ],
 
 )
