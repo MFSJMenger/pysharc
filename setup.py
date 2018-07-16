@@ -8,4 +8,6 @@ setup(name='pysharc',
         author='Maximilian F.S.J. Menger',
         author_email='maximilian.menger@univie.ac.at',
         scripts=['bin/sharc_test.py'],
+        packages=['pysharc'],
+
 )
